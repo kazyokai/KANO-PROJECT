@@ -4,3 +4,9 @@
 改めましてプロジェクト「KANO PROJECT」の応援よろしくお願いします。
 <h2>プロジェクトの目的</h2>
 ずんかずとメンバーによる、ubuntuベースのlinux開発。
+<h2>このリポジトリは?</h2>
+KanoLinuxのソースコードを公開するところ。
+<h2>リンク</h2>
+KANO PROJECT公式サイト http://zunkazu.wp.xdomain.jp/
+OS公開 OSDN 未定
+youtube https://www.youtube.com/channel/UCm-_tTMRkyNZ1T_5Yaff8YA
